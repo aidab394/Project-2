@@ -24,7 +24,7 @@
 	<body>
 		<header>
 			<figure align="center"> <!-- Banner and Nav. Bar -->
-				<img class="banner" src="C:\Users\55\Desktop\CS412 - Web Application Development\images\banner4.jpg" alt="Header image" width="1120" align="top">
+				<img class="banner" src="banner4.jpg" alt="Header image" width="1120" align="top">
 				<figcaption class="banner"> <!-- Icons as Nav. Bar -->
 					<nav class="icon-bar">
 						<span title="Biography"><a href="#biography"><i class="fa fa-edit"></i></a></span>
@@ -288,7 +288,7 @@
 						<div class="proj-row">
 							<div class="proj-col">
 								<div class="meeting">
-									<img class="projects" class="hover" src="C:\Users\55\Desktop\CS412 - Web Application Development\images\meeting.jpg"></img>
+									<img class="projects" class="hover" src="meeting.jpg"></img>
 									<div class="box">
 										<div class="text">
 											<strong>Meeting Point</strong><br>
@@ -302,7 +302,7 @@
 							</div>
 							<div class="proj-col">
 								<div class="meeting">
-									<img class="projects" class="hover" src="C:\Users\55\Desktop\CS412 - Web Application Development\images\atm.png"></img>
+									<img class="projects" class="hover" src="atm.png"></img>
 									<div class="box">
 										<div class="text">
 											<strong>ATM Software</strong><br>
@@ -316,7 +316,7 @@
 							</div>
 							<div class="proj-col">
 								<div class="meeting">
-									<img class="projects" class="hover" src="C:\Users\55\Desktop\CS412 - Web Application Development\images\resistorcalc.png"></img>
+									<img class="projects" class="hover" src="resistorcalc.png"></img>
 									<div class="box">
 										<div class="text">
 											<strong>Resistor Color-code Calculator</strong><br>
@@ -332,7 +332,7 @@
 						<div class="proj-row">
 							<div class="proj-col">
 								<div class="meeting">
-									<img class="projects" class="hover" src="C:\Users\55\Desktop\CS412 - Web Application Development\images\coupler.png"></img>
+									<img class="projects" class="hover" src="coupler.png"></img>
 									<div class="box">
 										<div class="text">
 											<strong>Slotted Heart-shaped 4.77dB Microstrip Coupler</strong><br>
@@ -346,7 +346,7 @@
 							</div>
 							<div class="proj-col">
 								<div class="meeting">
-									<img class="projects" class="hover" src="C:\Users\55\Desktop\CS412 - Web Application Development\images\tempconv.png"></img>
+									<img class="projects" class="hover" src="tempconv.png"></img>
 									<div class="box">
 										<div class="text">
 											<strong>Temperature Measurement with 8-bit A/D Converter (simulation)</strong><br>
@@ -360,7 +360,7 @@
 							</div>
 							<div class="proj-col">
 								<div class="meeting">
-									<img class="projects" class="hover" src="C:\Users\55\Desktop\CS412 - Web Application Development\images\arduino.png"></img>
+									<img class="projects" class="hover" src="arduino.png"></img>
 									<div class="box">
 										<div class="text">
 											<strong>Arduino Home Alarm System (simulation)</strong><br>
@@ -382,7 +382,7 @@
 						<div class="proj-row">
 							<div class="proj-col">
 								<div class="meeting">
-									<img class="projects" class="hover" src="C:\Users\55\Desktop\CS412 - Web Application Development\images\hydro2.jpg"></img>
+									<img class="projects" class="hover" src="hydro2.jpg"></img>
 									<div class="box">
 										<div class="text">
 											<strong>Hydro-power Plants and River Protection in Western Balkans</strong><br>
@@ -395,7 +395,7 @@
 							</div>
 							<div class="proj-col">
 								<div class="meeting">
-									<img class="projects" class="hover" src="C:\Users\55\Desktop\CS412 - Web Application Development\images\diskrim.jpg"></img>
+									<img class="projects" class="hover" src="diskrim.jpg"></img>
 									<div class="box">
 										<div class="text">
 											<strong>Techniques and Ways to Combat Discrimination in the Society</strong><br>
@@ -408,7 +408,7 @@
 							</div>
 							<div class="proj-col">
 								<div class="meeting">
-									<img class="projects" class="hover" src="C:\Users\55\Desktop\CS412 - Web Application Development\images\icee.jpg"></img>
+									<img class="projects" class="hover" src="\icee.jpg"></img>
 									<div class="box">
 										<div class="text">
 											<strong>International Conference on Engineering Entrepreneurship (ICEE) '20</strong><br>
