@@ -408,7 +408,7 @@
 							</div>
 							<div class="proj-col">
 								<div class="meeting">
-									<img class="projects" class="hover" src="\icee.jpg"></img>
+									<img class="projects" class="hover" src="icee.jpg"></img>
 									<div class="box">
 										<div class="text">
 											<strong>International Conference on Engineering Entrepreneurship (ICEE) '20</strong><br>
